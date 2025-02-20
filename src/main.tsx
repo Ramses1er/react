@@ -1,6 +1,6 @@
 import { createRoot } from "react-dom/client";
 import './index.css'
 
-import J4 from "./own-tp/Jour4.tsx";
+import App from "./05/App02.tsx";
 
-createRoot(document.getElementById("root")!).render(<J4/>);
+createRoot(document.getElementById("root")!).render(<App/>);

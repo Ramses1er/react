@@ -13,7 +13,7 @@ export default function J2() {
         <div>
           <h1 className="text-2xl font-bold">2.Couleur de fond</h1>
           <div className="bg-black text-white px-2">
-            font noire text blanc padding gauche 4
+            font noire text blanc padding gauche 2
           </div>
           <div className="bg-red-200 px-4">
             fond rouge claire text noire par defaut padding 4
