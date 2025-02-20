@@ -1,6 +1,6 @@
 import { createRoot } from "react-dom/client";
 import './index.css'
 
-import App from "./05/App02.tsx";
+import Form02 from "./06/Form02.tsx";
 
-createRoot(document.getElementById("root")!).render(<App/>);
+createRoot(document.getElementById("root")!).render(<Form02/>);
